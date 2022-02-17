@@ -33,12 +33,11 @@ body{
      display: flex;
      justify-content: space-around;
      margin-top: 50px;
-     /* flex-wrap: wrap; */
+   
  }
 
  .h1{
      width: 50%;
-     /* margin-left: 80px; */
      color: var(--Very-Dark-Magenta);
      font-weight: bolder;
  }
@@ -46,7 +45,6 @@ body{
 
  .h1-text{
      width: 90%;
-     /* margin-left: 80px; */
      margin-top: 20px;
      color: var(--Dark-Grayish-Magenta);
  }
@@ -87,19 +85,6 @@ body{
     align-items: center;
 }
 
-/* .review .box-container .box{
-   background: url(./images/bg-pattern-bottom-mobile.svg) no-repeat;
-   margin-left: 80px;
-   margin-right: 80px;
-   background-color: var(--Very-Dark-Magenta);
-   padding: 50px;
-   border-radius: 10px;
-   margin-top: 20px;
-   width: 30%;
-   
-   
-   
-} */
 
 .review {
   margin-top: 50px;  
